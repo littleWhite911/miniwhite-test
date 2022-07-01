@@ -1,0 +1,22 @@
+{
+  "name": "@miniwhite-cli-dev/core",
+  "version": "1.0.1",
+  "description": "miniwhite-cli-dev core",
+  "author": "littleWhite <chen17701635926@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "bin":{
+    "miniwhite-cli-dev":"bin/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
