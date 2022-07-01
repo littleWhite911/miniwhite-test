@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('cli-dev test')
+console.log('cli-dev test222')
