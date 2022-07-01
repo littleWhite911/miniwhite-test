@@ -6,8 +6,8 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "miniwhite-cli-dev":"bin/index.js"
+  "bin": {
+    "miniwhite-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
